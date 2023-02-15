@@ -34,9 +34,7 @@ li{
     vertical-align: bottom;
 }*/
 
-label{
 
-}
 
 .labelcolor{
     color: red;
@@ -51,7 +49,4 @@ section > p{
 }
 p{
     color: blue;
-}
-img{
-    border-radius: 50%;
 }
