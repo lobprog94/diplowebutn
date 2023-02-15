@@ -1,0 +1,51 @@
+h1{
+    color: red;
+    font-size: 100%;
+}
+
+.micolor{
+    color: black;
+    font-size: 60%;
+}
+
+
+.fondocolor{
+    background-color: violet;
+}
+
+/* ul{
+    list-style-type: square;
+    background-color: red;
+}
+
+ol{
+    list-style-type: none;
+}
+
+li{
+    background-color: red;
+} */
+
+/*table,tr,td,th {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+    height: 70px;
+    vertical-align: bottom;
+}*/
+
+label{
+
+}
+
+.labelcolor{
+    color: red;
+}
+
+section > h1{
+    background-color: red;
+}
+
+section > p{
+    background-color: blanchedalmond;
+}
